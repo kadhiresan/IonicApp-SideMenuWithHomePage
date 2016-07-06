@@ -5,7 +5,7 @@ Ionic App With Side Menu and Simple Home Page Design
 
 From this app code we will get to know how side menu is working and how to design simple home page with CSS
 
-![_config.yml]({{ site.baseurl }}/img/sample_home_page.png)
+![alt tag](https://github.com/kadhiresan/IonicApp-SideMenuWithHomePage/www/img/sample_home_page.png)
 
 ```bash
 $ cd IonicApp-SideMenuWithHomePage
